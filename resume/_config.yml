@@ -6,10 +6,10 @@ email: resume@raaqim.me
 description: This is my resume.
 url: "https://raaqim.me"
 baseurl: "/resume"
-includes_dir: "/resume/_includes"
-sass_dir: "/resume/_sass"
-layouts_dir: "/resume/_layouts"
-data_dir: "/resume/_data"
+includes_dir: "resume/_includes"
+sass_dir: "resume/_sass"
+layouts_dir: "resume/_layouts"
+data_dir: "resume/_data"
 name: Raaqim Mohammed
 job: Looking for a Job
 location: Sydney, AU
