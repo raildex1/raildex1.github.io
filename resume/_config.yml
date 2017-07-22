@@ -1,18 +1,19 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
-email: email@domain.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
-baseurl: ""
+title: Raaqim Mohammed's Resume
+email: resume@raaqim.me
+description: This is my resume.
+baseurl: "/resume"
 url: "https://raaqim.me/resume"
 name: Raaqim Mohammed
-job: 
+job: Looking for a Job
 location: Sydney, AU
-languages: 
+languages: Python
 twitter_username: TheRaildex1
-github_username:  raildex1
-email_address: some@email.com
+github_username: raildex1
+linkedin_vanity: RaaqimMohammed
+email_address: resume@raaqim.me
 
 # Build settings
 markdown: kramdown

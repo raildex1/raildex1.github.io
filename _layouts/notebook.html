@@ -61,7 +61,10 @@ layout: default
 	<a href="{{ member.gplus }}" title="Google Plus"><img src="{{ "/img/icons/gplus-icon.png " | prepend: site.baseurl }}" style="height:37px; float:right; margin-top:6px"></a>
 	{% endif %}
 	{% if member.url %}
-	<a href="{{ member.url }}" title="Google Plus"><img src="{{ "/img/icons/url-icon.png "| prepend: site.baseurl }}" style="height:33px; float:right; margin-top:9px;  margin-right: 10px"></a>
+	<a href="{{ member.url }}" title="Website"><img src="{{ "/img/icons/url-icon.png "| prepend: site.baseurl }}" style="height:33px; float:right; margin-top:9px;  margin-right: 10px"></a>
+	{% endif %}
+	{% if member.linkedin %}
+	<a href="https://linkedin.com/in/{{ member.linkedin }}" title="Linkedin"><img src="{{ "/img/icons/linkedin-icon.png "| prepend: site.baseurl }}" style="height:37px; float:right; margin-top:6px"></a>
 	{% endif %}
 	
 {% endif %}

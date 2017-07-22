@@ -13,9 +13,11 @@ headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  raildex1
+github_username: raildex1
 project_repository: raildex1.github.io
 disqus_shortname: raaqim-me
+twitter_username: TheRaildex1
+email_address: me@raaqim.me
 g-analytics: UA-102976511-1
 altmetric: true
 
@@ -106,7 +108,7 @@ prose:
       - name: "horizontal"
         field:
           element: "hidden"
-          value: </section></section><section markdown="1" data-background="https://raildex1.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+          value: </section></section><section markdown="1" data-background="https://raaqim.me/img/slidebackground.png"><section markdown="1">
       - name: "vertical"
         field:
           element: "hidden"
@@ -114,7 +116,7 @@ prose:
       - name: "slideinit"
         field:
           element: "hidden"
-          value: <section markdown="1" data-background="https://raildex1.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+          value: <section markdown="1" data-background="https://raaqim.me/img/slidebackground.png"><section markdown="1">
       - name: "theme"
         field:
           element: "select"
