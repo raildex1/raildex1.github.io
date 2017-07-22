@@ -4,8 +4,12 @@
 title: Raaqim Mohammed's Resume
 email: resume@raaqim.me
 description: This is my resume.
-baseurl: "/resume"
 url: "https://raaqim.me"
+baseurl: "/resume"
+includes_dir: "/resume/_includes"
+sass_dir: "/resume/_sass"
+layouts_dir: "/resume/_layouts"
+data_dir: "/resume/_data"
 name: Raaqim Mohammed
 job: Looking for a Job
 location: Sydney, AU
@@ -14,6 +18,7 @@ twitter_username: TheRaildex1
 github_username: raildex1
 linkedin_vanity: RaaqimMohammed
 email_address: resume@raaqim.me
+
 
 # Build settings
 markdown: kramdown

@@ -19,7 +19,7 @@ disqus_shortname: raaqim-me
 twitter_username: TheRaildex1
 email_address: me@raaqim.me
 g-analytics: UA-102976511-1
-altmetric: true
+altmetric: false
 
 # Build settings
 gems: [jekyll-paginate]
