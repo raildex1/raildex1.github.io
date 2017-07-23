@@ -1,9 +1,10 @@
 <header>
+{% assign resume = site.data.resume.raaqim %}
     <div class="container">
         <div class="intro">
             <p class="intro__pre">Hello</p>
-            <p class="intro__main">My name is <span>{{ site.data.resume.name }}</span>, a {{ site.data.resume.job }} who loves all things {{ site.data.resume.languages }}</p>
-            <p class="intro__post">{{ site.data.resume.location }}</p>
+            <p class="intro__main">My name is <span>{{ resume.name }}</span>, a {{ resume.job }} who loves all things {{ resume.languages }}</p>
+            <p class="intro__post">{{ resume.location }}</p>
         </div>
 
         {{ if resume.github_username or resume.codepen_username or resume.twitter_username or resume.email_address or resume.linkedin_vanity }}
