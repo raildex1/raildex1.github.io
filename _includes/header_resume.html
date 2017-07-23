@@ -7,10 +7,9 @@
             <p class="intro__post">{{ resume.location }}</p>
         </div>
 
-        {{ if resume.github_username or resume.codepen_username or resume.twitter_username or resume.email_address or resume.linkedin_vanity }}
+        {{ if resume.github_username or resume.twitter_username or resume.email_address or resume.linkedin_vanity }}
         <div class="social">
             {{ if resume.github_username }}<a href="https://github.com/{{ resume.github_username }}" target="_blank">GitHub</a>{{ endif }}
-            {{ if resume.codepen_username }}<a href="https://codepen.io/{{ resume.codepen_username }}" target="_blank">CodePen</a>{{ endif }}
             {{ if resume.twitter_username }}<a href="https://twitter.com/{{ resume.twitter_username }}" target="_blank">Twitter</a>{{ endif }}
             {{ if resume.email_address }}<a href="mailto:{{ resume.email_address }}" target="_blank">Email</a>{{ endif }}
             {{ if resume.linkedin_vanity }}<a href="https://linkedin.com/in/{{ resume.linkedin_vanity }}" target="_blank">Linkedin</a>{{ endif }}
