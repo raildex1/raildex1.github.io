@@ -9,7 +9,7 @@ minititle:
 
 # Secondary Parameters
 baseurl: "/"
-header-img: "https://res.cloudinary.com/raildex1/image/upload/v1500903996/c/home-bg.jpg"
+header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: 
 
@@ -38,7 +38,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "https://res.cloudinary.com/raildex1/image/upload/v1500903996/c/home-bg.jpg"
+      header-img: "img/home-bg.jpg"
 
 # Prose Settings
 prose:
