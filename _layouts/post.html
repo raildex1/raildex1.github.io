@@ -154,7 +154,13 @@ layout: default
 {% include imagezoom.html %}
 
 <article>
-<div id="share-box"> 
+<style media="screen" type="text/css">
+.share-button{margin:0;border:1px solid #D3D6D2;padding:5px 10px;opacity:.9}.share-button:hover{opacity:1}.fa-facebook-official{color:#3b5998}.fa-google-plus{color:#d34836}.fa-linkedin{color:#0077b5}.fa-envelop{color:#444}.fa-reddit{color:#ff5700}.fa-twitter{color:#4099FF}
+</style>
+    <div id="content" class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+             <div id="share-box"> 
         <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{site.baseurl}}{{ page.url }}" onclick="window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" >
           <i class="fa fa-facebook-official fa share-button"> facebook</i>
@@ -185,10 +191,6 @@ layout: default
         </a> 
                                          
 </div>
-    <div id="content" class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
 				{{ content | markdownify }}
 
                 <hr>
