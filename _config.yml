@@ -23,6 +23,7 @@ altmetric: false
 
 # Build settings
 gems: [jekyll-paginate]
+  - jekyll-seo-tag
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
