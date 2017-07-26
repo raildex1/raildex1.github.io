@@ -35,7 +35,7 @@ You can even sync it to Dropbox, and auto create backups so if your machine cras
    
 ## Think outside the box... but don't forget to look inside!
 
-While you'll likely be pushed to your limits (and further) don't neglect to pick at the obvious. Now having said that you do have some restrictions in the exam - and have a limited use of a tool - so a good idea is to save it until the end - but not too late! Pace yourself - rotate between the machines. As tempting as it is go for the 'harder' ones first since you need the 70 points to pass. And now with the changes to the exam you can't simply rely on the 10 bonus points (now 5) to pull you through - I personally think that was a good change.
+While you'll likely be pushed to your limits (and further) don't neglect to pick at the obvious. Now having said that you do have some restrictions in the exam - and have a limited use of a tool - so a good idea is to save it until the end - but not too late! Pace yourself - rotate between the machines. As tempting as it is to go for the easy wins first go for the 'harder' ones instead since you need the 70 points to pass - and to prevent yourself wasting valuable time. And now with the changes to the exam you can't simply rely on the 10 bonus points (now 5) to pull you through - I personally think that was a good change.
 
 And tools can't do everything - sometimes you just have to get your hands dirty and manually do it yourself! 
 
