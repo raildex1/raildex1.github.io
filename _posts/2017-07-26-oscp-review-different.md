@@ -26,13 +26,30 @@ It's not that crazy (yet) - just go through the methodology and steps of pentest
    * Post Exploitation
    * Reporting
 
-What step are you struggling at? In that step what are you missing? For example in Enumerating did you really do every bit of enumeration you can? Do you have a checklist? Did you use all the right parameters and settings? Is there another way to do what you're trying to do? Shells can be unreliable - did you make extras? Are your notes organised - you did scan this machine right? I recommend using Scrivener - it's a nice way to keep your notes organised. And make sure you do your notes as you go along - and take all the screenshots you need in the way you were told to! It'd be pretty sad to fail because you forgot to take them...
+What step are you struggling at? In that step what are you missing? For example in Enumerating did you really do every bit of enumeration you can? Do you have a checklist? Did you use all the right parameters and settings? **Is there another way to do what you're trying to do?** Shells can be unreliable - did you make extras? Are your notes organised - you did scan this machine right? I recommend using Scrivener - it's a nice way to keep your notes organised. And make sure you do your notes as you go along - and take all the screenshots you need in the way you were told to! It'd be pretty sad to fail because you forgot to take them...
 
 ![Scrivener snapshot](https://raaqim.me/img/scrivener_snapshot.png)
 
 You can even sync it to Dropbox, and auto create backups so if your machine crashes during the report stage you don't lose everything! Or if Windows decides now is the best time to reset your machine after Automatically Updating (see tmsteen's review below).
 
+Another thing to point out is that you really should understand what you're running and why. This is especially true when using one of those "Pentesting Cheat Sheets" and you're trying for hours why one command won't work... but your OS is completely different than the assumed one on the sheet. Or running Windows commands on a Linux box (don't laugh, when you have terminal windows left and right it can happen).
+
+A good command to run before starting (on Kali) is -
+
+{% highlight bash %}
+script exam_x.log
+{% endhighlight %}
    
+Where x is the machine's IP or any sort of unique identifier you want.
+
+Just make sure to 
+
+{% highlight bash %}
+exit
+{% endhighlight %}
+
+So the log is saved... otherwise you did it all for nothing!
+
 ## Think outside the box... but don't forget to look inside!
 
 While you'll likely be pushed to your limits (and further) don't neglect to pick at the obvious. Now having said that you do have some restrictions in the exam - and have a limited use of a tool - so a good idea is to save it until the end - but not too late! Pace yourself - rotate between the machines. As tempting as it is to go for the easy wins first go for the 'harder' ones instead since you need the 70 points to pass - and to prevent yourself wasting valuable time. And now with the changes to the exam you can't simply rely on the 10 bonus points (now 5) to pull you through - I personally think that was a good change.
