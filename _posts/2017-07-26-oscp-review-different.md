@@ -105,5 +105,5 @@ This whole exercise is designed to get you to stop assuming things and instead d
 And above all else just remember when you're 18 hours into the Exam and thinking of giving up -
 
 
-![Try Harder!](https://raaqim.me/img/TryHarderFlamesWebPageBannerSmaller-1.png)
+![Try Harder!](https://raaqim.me/img/tryharder.png)
 
