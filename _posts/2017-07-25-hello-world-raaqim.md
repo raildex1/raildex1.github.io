@@ -11,7 +11,7 @@ date:       '2017-07-25 21:00:00 +1000'
 
 Finally got into blogging - Thought it'd be a good idea to get out into the World:
 
-* Going off Calvin's idea [Calvin's website] (https://calvin.me) I got the [Raaqim's website](https://raaqim.me) domain. Thankfully no other Raaqims took it first! If you haven't gotten your own .me I'd get to it - if you have a common name it might be a pretty penny to buy it off someone but you can try other suffixes - be creative!
+* Going off Calvin's idea [https://calvin.me](https://calvin.me) I got the ['https://raaqim.me'](https://raaqim.me) domain. Thankfully no other Raaqims took it first! If you haven't gotten your own .me I'd get to it - if you have a common name it might be a pretty penny to buy it off someone but you can try other suffixes - be creative!
 
 This blog is about sharing my thoughts, experience and knowledge of Network Security (netsec) and eventually Finance/Investing/Markets. Pretty strange combination but it'll work somehow - I guess this is the motto of anyone in Computing!
 
