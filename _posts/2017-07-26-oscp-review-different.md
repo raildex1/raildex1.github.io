@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      My (different) OSCP review + Exam experience
-author:     Raaqim Mohammed
-tags: 		netsec
-subtitle:  	Not the traditional OSCP review, if you're going for the exam read on!
-date:       '2017-07-26 21:00:00 +1000'
+layout:      post
+title:       My (different) OSCP review + Exam experience
+author:      Raaqim Mohammed
+tags: 		 netsec
+subtitle:  	 Not the traditional OSCP review, if you're going for the exam read on!
+description: Not the traditional OSCP review, if you're going for the exam read on!
+date:        '2017-07-26 21:00:00 +1000'
 ---
 
 # My (different) OSCP review

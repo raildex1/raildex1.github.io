@@ -4,6 +4,7 @@ title:      Hello World! First post...
 author:     Raaqim Mohammed
 tags: 		netsec finance
 subtitle:  	First post of the Blog!
+description: First post of the Blog!
 date:       '2017-07-25 21:00:00 +1000'
 ---
 
