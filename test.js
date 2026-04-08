@@ -1,0 +1,2 @@
+window.shutdown()
+alert()
